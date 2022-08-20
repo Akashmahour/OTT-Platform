@@ -4,11 +4,6 @@
   <p align="center">
     My React.js implementation of Netflix. Movie data was pulled from TMDB and trailer videos from Youtube.
     <br /><br />
-    <a href="https://www.youtube.com/watch?v=GpHEcxh3ia8"><strong>View Video Demo »</strong></a>
-    <br /><br />
-    <a href="https://github.com/crookedfingerworks/roseflix/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/crookedfingerworks/roseflix/issues">Request Feature</a>
   </p>
 </p>
 
@@ -27,8 +22,6 @@
       <li><a href="#installation">Installation</a></li>
     </ul>
   </li>
-  <li><a href="#usage">Usage</a></li>
-  <li><a href="#contact">Contact</a></li>
 </ol>
 
 ## About The Project
@@ -148,8 +141,3 @@ Install latest version of npm
 4. Click 'Delete Profile'.
 5. Confirm deletion by clicking 'Yes'.
 
-## Contact
-
-crooked.finger.works@gmail.com
-
-Project Link: [https://github.com/crookedfingerworks/roseflix](https://github.com/crookedfingerworks/roseflix)
