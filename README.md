@@ -50,7 +50,7 @@ Install latest version of npm
 
 1. Clone the project
    ```sh
-   git clone https://github.com/crookedfingerworks/roseflix.git
+   git clone https://github.com/Akashmahour/OTT-Platform.git
    ```
 2. Go to project directory and Install NPM packages
    ```sh
@@ -63,7 +63,7 @@ Install latest version of npm
    ```
 5. In a new directory, clone the backend and follow installation instructions on its README
    ```sh
-   git clone https://github.com/crookedfingerworks/roseflix-backend
+   git clone https://github.com/Akashmahour/OTT-Platform/roseflix-backend
    ```
 6. You should now have the server running locally. Add the url to your .env
    ```sh
